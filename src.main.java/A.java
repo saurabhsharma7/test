@@ -5,5 +5,6 @@ class A{
         System.out.println("Hello World");
         System.out.println("Bye");
         System.out.println("Bye");
+        System.out.println("Bye");
     }
 }
